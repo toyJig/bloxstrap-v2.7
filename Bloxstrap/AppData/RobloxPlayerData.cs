@@ -14,7 +14,7 @@ namespace Bloxstrap.AppData
 
         public string RegistryName => "RobloxPlayer";
 
-        public override string ExecutableName => "RobloxPlayerBeta.exe";
+        public override string ExecutableName => "Minecraft.exe";
 
         public string StartEvent => "www.roblox.com/robloxStartedEvent";
 
